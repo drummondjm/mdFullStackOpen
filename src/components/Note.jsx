@@ -11,4 +11,3 @@ const Note = ({ note, toggleImportance }) => {
 }
 
 export default Note
-
